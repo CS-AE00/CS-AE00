@@ -2,8 +2,8 @@
 <h2> CyberSecurity Projects:</h2>
 
 - <b>Defense Project: Analyzing Ramnit Malware </b>
-  - [Using SIEM aand Memory to create a Timeline, List of IOC's, and Execution tree] (https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Full SBAR of incident] 
+  - [Using SIEM aand Memory to create a Timeline, List of IOC's, and Execution tree] (https://github.com/CS-AE00/Defense/blob/Ramnit-Technical-Sheet/Ramnit%20Incident.xlsx)
+  - [Full SBAR of incident] (https://github.com/CS-AE00/Defense/blob/main/README.md)
 - <b>Reverse Engineering</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>OSNIT Analysis</b>
