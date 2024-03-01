@@ -2,8 +2,8 @@
 <h2> CyberSecurity Projects:</h2>
 
 - <b>Defense Project: Analyzing Ramnit Malware </b>
-  - [Using SIEM aand Memory to create a Timeline, List of IOC's, and Execution tree] (https://github.com/CS-AE00/Defense/blob/Ramnit-Technical-Sheet/Ramnit%20Incident.xlsx)
-  - [Full SBAR of incident] (https://github.com/CS-AE00/Defense/blob/main/README.md)
+  - [Using SIEM aand Memory to create a Timeline, List of IOC's, and Execution tree](https://github.com/CS-AE00/Defense/blob/Ramnit-Technical-Sheet/Ramnit%20Incident.xlsx)
+  - [Full SBAR of incident](https://github.com/CS-AE00/Defense/blob/main/README.md)
 - <b>Reverse Engineering</b>
   - [Aseembly analysis of multiple files](https://github.com/CS-AE00/Reverse-Engineering)
 - <b>OSNIT Analysis</b>
@@ -15,5 +15,5 @@
 - <b>Spearphish Company</b>
   - [Submit "resume" to gain access to HR machine](https://github.com/CS-AE00/Spearphish-Company/blob/main/README.md)
 - <b>Exploit Companies Database </b>
- - [Create Proxy tunnel and use sql injection to get employee information](https://github.com/CS-AE00/Exploit-Companies-Database)
+  - [Create Proxy tunnel and use sql injection to get employee information](https://github.com/CS-AE00/Exploit-Companies-Database)
 - <b>Attack Nation State </b>
