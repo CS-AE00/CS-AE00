@@ -5,18 +5,15 @@
   - [Using SIEM aand Memory to create a Timeline, List of IOC's, and Execution tree] (https://github.com/CS-AE00/Defense/blob/Ramnit-Technical-Sheet/Ramnit%20Incident.xlsx)
   - [Full SBAR of incident] (https://github.com/CS-AE00/Defense/blob/main/README.md)
 - <b>Reverse Engineering</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Aseembly analysis of multiple files](https://github.com/CS-AE00/Reverse-Engineering)
 - <b>OSNIT Analysis</b>
+  -[Going undercover in a russian crime group](https://github.com/CS-AE00/OSNIT)
 - <b>Buffer Overflow</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Creating buffer overflows of various difficulty](https://github.com/CS-AE00/Buffer-Overflow)
 - <b> Custom Shellcode(.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Delete pfirewall.log](https://github.com/CS-AE00/Custom-Shellcode)
 - <b>Spearphish Company</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Submit "resume" to gain access to HR machine](https://github.com/CS-AE00/Spearphish-Company/blob/main/README.md)
 - <b>Exploit Companies Database </b>
+ - [Create Proxy tunnel and use sql injection to get employee information](https://github.com/CS-AE00/Exploit-Companies-Database)
 - <b>Attack Nation State </b>
